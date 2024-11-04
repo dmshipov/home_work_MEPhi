@@ -41,4 +41,4 @@ pip install -r requirements.txt
 python solution.py
 ```
 
-или открыть Jupyter Notebook для выполнения кода в интерактивном режиме.
+или открыть Jupyter Notebook для выполнения кода в интерактивном режиме."# home_work_MIFI" 
