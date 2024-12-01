@@ -41,4 +41,4 @@
 2. `pip install pandas numpy matplotlib seaborn`
 3. Запустите Jupyter Notebook.
 
-Этот проект — пример разведывательного анализа и предобработки данных для машинного обучения/статистического анализа.
+Этот проект, с которым можите ознакомиться по [ссылке](https://github.com/dmshipov/home_work_MIFI/blob/main/programing/assignment_3/Project_Head_Hunter.ipynb) — пример разведывательного анализа и предобработки данных для машинного обучения/статистического анализа.
