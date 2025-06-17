@@ -11,7 +11,7 @@ coursework/
 ├── models/                       # Реализация моделей  
 │   ├── regression/              # Задачи регрессии  
 │   │   ├── CC50.ipynb  
-│   │   ├── IC50.ipynb           # Исправил название IPython Notebook файла  
+│   │   ├── IC50.ipynb          
 │   │   └── SI.ipynb  
 │   └── classification/          # Задачи классификации  
 │       ├── CC50_median.ipynb  
