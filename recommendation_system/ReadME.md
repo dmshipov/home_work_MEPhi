@@ -52,14 +52,14 @@
 ```
 project/
 ├── README.md              # Этот файл
-├── requirements.txt         # Файл с зависимостями Python
+├── requirements.txt       # Файл с зависимостями Python
 ├── notebook.ipynb         # Основной Jupyter notebook с полным кодом
 ├── data/
 │   ├── ratings.csv        # Отзывы пользователей
 │   ├── books.csv          # Информация о книгах
 │   ├── tags.csv           # Теги
 │   └── book_tags.csv      # Связь книг и тегов
-└── models/               # (Опционально) Сохраненные модели, если экспортировать
+└── models/                # Сохраненные модели
 ```
 ---
 ## Этапы Реализации### 1: Знакомство с Данными и EDA
